@@ -12,7 +12,7 @@ Simulación de un sistema de alumnos haciendo uso de conceptos básicos de progr
 ### Librerías:
 - Conector MySQL (mysql-connector-java-5.1.47.jar)
 - Substance 4.3 (substance-4.3.jar)
-- iTextPDF (itext5-itextpdf-5.5.12)
+- iTextPDF (itext5-itextpdf-5.5.12.jar)
 
 
 
